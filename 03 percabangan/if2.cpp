@@ -9,7 +9,7 @@ int main()
     // deklarasi variabel
     int nilai;
 
-    //masukkaN nilai ke variabel nilai
+    //masukkan nilai ke variabel nilai
     cin >> nilai;
 
     // jika nilai sama dengan 100 maka
