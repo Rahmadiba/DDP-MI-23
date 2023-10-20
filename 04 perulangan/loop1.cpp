@@ -6,7 +6,7 @@ int main()
 
     for (int i = 0; i < 10; i++) 
     {
-        cout << "Dia sudah ada yang lain..." << endl;
+        cout << "Dia sudah ada yang punya..." << endl;
     }
 
     return 0;

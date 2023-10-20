@@ -14,14 +14,13 @@ int main()
 
     // jika nilai sama dengan 100 maka
     if (nilai==100) 
-    {
-        // output // "SEMPURNA" 
-        cout<<"SEMPURNA" << endl;
-    } 
+
+    {// output // "SEMPURNA" 
+    cout<<"SEMPURNA" << endl;} 
+
     // jika nilai selain 100 maka
+    
     else 
-    {
-        // output "BELUM SEMPURNA"
-        cout << "BELUM SEMPURNA" << endl;
-    }
+    {// output "BELUM SEMPURNA"
+    cout << "BELUM SEMPURNA" << endl;}
 }

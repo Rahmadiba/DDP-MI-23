@@ -8,7 +8,7 @@ int main()
     // deklarasi variabel
     int bilanganbulat;
 
-    // masukkan nilai ke variabel bilanganbulat
+    // masukkan nilai ke variabel bilangan bulat
     cin>>bilanganbulat;
 
     // jika bilanganbulat sama dengan 50 maka
